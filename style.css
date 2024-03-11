@@ -1,0 +1,48 @@
+
+h1{
+    text-align: center;
+    color: rgb(22, 72, 167);
+    font-size: 3em;
+}
+
+.nav ul{
+    background-color: rgba(138, 37, 37, 0.831);
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.nav li{    float: left;
+}
+
+.nav a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+nav a:hover{
+    background-color: rgba(0, 0, 0, 0.475);
+}
+
+
+body{
+    border: 2px solid;
+    width: 80%;
+    margin: auto;
+    position:sticky;
+    height:900px;
+    background-color: rgb(40, 42, 42);
+}
+
+body p{
+    color: rgba(240, 248, 255, 0.576);
+}
+
+
+footer{
+    border: 2px solid;
+    height:100px;
+    margin-bottom: 0px;
+}
